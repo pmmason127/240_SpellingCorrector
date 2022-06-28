@@ -79,7 +79,7 @@ public class Trie implements ITrie
         }
         int numNodes = this.getNodeCount();
         int wordCount = this.getWordCount();
-        return first_index * numNodes + wordCount;
+        return first_index * numNodes * wordCount;
     }
 
     public Node getRoot()

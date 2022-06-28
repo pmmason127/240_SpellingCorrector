@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3533ab2-d31d-4ee5-b14f-84c70d6a09b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jars.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/passoff/SpellTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/passoff/TrieTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/DictionaryCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/INode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/ISpellCorrector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/ITrie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/SpellCorrector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spelling-Corrector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spelling-Corrector.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passoff/SpellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passoff/SpellTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passoff/TrieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passoff/TrieTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spell/DictionaryCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spell/DictionaryCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spelling-Corrector/spell/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spell/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spell/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spell/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spell/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spell/SpellCorrector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spell/SpellCorrector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spell/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spell/Trie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +31,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.SpellTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="spell.Main" />
       <module name="Spelling-Corrector" />
-      <option name="PROGRAM_PARAMETERS" value="words.txt boyk" />
+      <option name="PROGRAM_PARAMETERS" value="notsobig.txt copyriht" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="spell.*" />
